@@ -1,0 +1,2 @@
+/home/zxlinux/A20.4.4.AW/lichee/linux-3.4/drivers/video/sun7i/hdmi/hdmi.ko
+/home/zxlinux/A20.4.4.AW/lichee/linux-3.4/drivers/video/sun7i/hdmi/aw/hdmi_hal.o /home/zxlinux/A20.4.4.AW/lichee/linux-3.4/drivers/video/sun7i/hdmi/aw/hdmi_interface.o /home/zxlinux/A20.4.4.AW/lichee/linux-3.4/drivers/video/sun7i/hdmi/aw/hdmi_edid.o /home/zxlinux/A20.4.4.AW/lichee/linux-3.4/drivers/video/sun7i/hdmi/drv_hdmi.o /home/zxlinux/A20.4.4.AW/lichee/linux-3.4/drivers/video/sun7i/hdmi/dev_hdmi.o /home/zxlinux/A20.4.4.AW/lichee/linux-3.4/drivers/video/sun7i/hdmi/aw/hdmi_core.o
