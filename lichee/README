@@ -10,10 +10,6 @@ Examples:
 
 2. Build linux kernel android
 
-  $./build.sh -p sun4i_crane
-
-
-
-
+  $./build_android.sh 
 
 
